@@ -1,0 +1,306 @@
+{
+    "requestId": "1bca4e0c-9712-46f8-a366-dee0ad188a78",
+    "status": {
+        "message": "",
+        "code": 200,
+        "attributes": {
+            "@type": "g:Map",
+            "@value": []
+        }
+    },
+    "result": {
+        "data": {
+            "@type": "g:List",
+            "@value": [
+                {
+                    "@type": "g:Path",
+                    "@value": {
+                        "labels": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                }
+                            ]
+                        },
+                        "objects": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Map",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头-吸嘴-脏污"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头-吸嘴"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "@type": "g:Path",
+                    "@value": {
+                        "labels": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                }
+                            ]
+                        },
+                        "objects": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Map",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头-元件传感器-人为原因"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头-元件传感器"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "@type": "g:Path",
+                    "@value": {
+                        "labels": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                }
+                            ]
+                        },
+                        "objects": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Map",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头-DP传感器-脏污"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头-DP传感器"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "贴片头"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "@type": "g:Path",
+                    "@value": {
+                        "labels": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Set",
+                                    "@value": []
+                                }
+                            ]
+                        },
+                        "objects": {
+                            "@type": "g:List",
+                            "@value": [
+                                {
+                                    "@type": "g:Map",
+                                    "@value": []
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "WPC-位置传感器-松动"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "WPC-位置传感器"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "g:Map",
+                                    "@value": [
+                                        "name",
+                                        {
+                                            "@type": "g:List",
+                                            "@value": [
+                                                "WPC"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "meta": {
+            "@type": "g:Map",
+            "@value": []
+        }
+    }
+}
